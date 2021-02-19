@@ -11,9 +11,10 @@ const FILES_TO_CACHE = [
   "/icon/iconsicon-128x128.png",
   "/icon/iconsicon-96x96.png",
   "/icon/iconsicon-72x72.png",
-  "/cssstyles.css",
+  "/css/styles.css",
   "/index.html",
-  "/jsindex.js",
+  "/js/index.js",
+"/manifest.json"
 ];
 
 // Respond with cached resources
