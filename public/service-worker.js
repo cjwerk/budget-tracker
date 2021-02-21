@@ -1,4 +1,5 @@
 const APP_PREFIX = "Budget-Tracker";
+const VERSION = 'v1'
 const CACHE_NAME = APP_PREFIX + VERSION;
 const FILES_TO_CACHE = [
     "/",
